@@ -27,7 +27,7 @@ defp deps do
 end
 ```
 
-And run `mix do deps.get, deps.compile`
+And run `mix do deps.get`, `mix deps.compile`
 
 ## Usage
 
